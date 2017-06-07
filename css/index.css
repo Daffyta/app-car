@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+  body{
+    background: rgb(203,96,179);
+  }
+  #background-setTime{
+    text-align: center;
+    margin-top: 260px;
+  }
+  .logo-start{
+    width: 35%;
+  }
+}
