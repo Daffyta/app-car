@@ -12,7 +12,17 @@
     height: 100%;
   }
 
-  .container{
+  header img{
+    position: absolute;
+    width: 50%;
+    margin-top: 16%;
+  }
+
+  header{
+    text-align: center;
+  }
+
+  .button-container{
     position: absolute;
     bottom: 20px;
   }
@@ -22,13 +32,12 @@
   }
 
   .buttons button{
-    background-color: transparent;
+    background-color: #fff;
     color: mediumturquoise;
     border: 3px solid;
-    margin: 0% 1%;
+    margin: 0% 2%;
   }
   .btn-default:hover {
     color: #333;
-    background-color: #ff3aff;
     border-color: #ffffff;
 }
