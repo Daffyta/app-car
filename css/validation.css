@@ -1,0 +1,16 @@
+@media (max-width: 600px) {
+  header{
+    text-align: center;
+  }
+
+  .back-button button{
+    background-color: transparent;
+    border: 0;
+    padding-top: 26px;
+    color: #000;
+  }
+
+  .back-button a{
+    color: #000;
+  }
+}
